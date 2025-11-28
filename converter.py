@@ -17,6 +17,7 @@ def fahrenheit_to_kelvin(fahrenheit):
     """Конвертує Фаренгейт у Кельвін"""
     celsius = fahrenheit_to_celsius(fahrenheit)
     return celsius_to_kelvin(celsiu)
+# Temperature Converter v1.1
 
 print("=== Конвертер температур ===")
 print("1. Цельсій -> Фаренгейт")
